@@ -1,0 +1,6 @@
+# installation
+https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html
+
+#
+kubectl exec -it podname -c continername -n namespace -- sh
+
